@@ -1,0 +1,14 @@
+i[class^="file"]::before{
+display: inline-block;
+transform: translateY(28%);
+}
+.s64::before{
+transform:scale(2) translateY(28%) !important; 
+margin:2rem;
+transform-origin:left bottom;
+}
+.s128::before{
+transform:scale(4) translateY(28%) !important;
+margin:4rem;
+transform-origin:left bottom;
+}
