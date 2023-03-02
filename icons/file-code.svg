@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+<style type="text/css">
+	.st0{fill:#FFCCCC;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#FF6666;}
+</style>
+<g>
+	<path class="st0" d="M26.7,30H5.3V2H20l6.7,6.7V30z"/>
+	<path class="st1" d="M25.7,9.3h-6.3V3L25.7,9.3z"/>
+</g>
+<g>
+	<path class="st2" d="M8.2,18.1v-1l3.9-2.5v1.3l-2.7,1.7v0l2.7,1.7v1.3L8.2,18.1z"/>
+	<path class="st2" d="M17,13.8h1.2L15,22.5h-1.2L17,13.8z"/>
+	<path class="st2" d="M20,19.2l2.7-1.7v0L20,15.9v-1.3l3.9,2.5v1L20,20.6V19.2z"/>
+</g>
+</svg>

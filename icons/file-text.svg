@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+<style type="text/css">
+	.st0{fill:#99CCFF;}
+	.st1{fill:#CCFFFF;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M26.7,30H5.3V2H20l6.7,6.7V30z"/>
+		<path class="st1" d="M25.7,9.3h-6.3V3L25.7,9.3z"/>
+	</g>
+</g>
+<g>
+	<rect x="7.4" y="10.7" class="st2" width="10.1" height="1"/>
+	<rect x="7.4" y="15.5" class="st2" width="15" height="1"/>
+	<rect x="7.4" y="20.2" class="st2" width="15" height="1"/>
+</g>
+</svg>

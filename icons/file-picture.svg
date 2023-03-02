@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+<style type="text/css">
+	.st0{fill:#99CC99;}
+	.st1{fill:#CCFFCC;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#CCCCCC;}
+</style>
+<g>
+	<path class="st0" d="M26.7,30H5.3V2H20l6.7,6.7V30z"/>
+	<path class="st1" d="M25.7,9.3h-6.3V3L25.7,9.3z"/>
+</g>
+<path class="st2" d="M22.2,15.1c-0.9,0-1.7,0.8-1.7,1.7c0,0.9,0.8,1.7,1.7,1.7s1.7-0.8,1.7-1.7C23.9,15.8,23.2,15.1,22.2,15.1z"/>
+<path class="st2" d="M13.7,16.8l-6.2,9.1H20L13.7,16.8z"/>
+<path class="st3" d="M19,20.2l-3.6,5.7h7.1L19,20.2z"/>
+</svg>
